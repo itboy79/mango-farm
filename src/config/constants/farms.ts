@@ -6,12 +6,12 @@ const farms: FarmConfig[] = [
     {
     pid: 0,
     risk: 2,
-    lpSymbol: 'MANGO-BUSD LP',
+    lpSymbol: 'cazzo-BUSD LP',
     lpAddresses: {
       97: '',
       56: '0xE5fE53149A278aF40ACb04334c4140eE7444BE4B',
     },
-    tokenSymbol: 'MANGO',
+    tokenSymbol: 'cazzo',
     tokenAddresses: {
       97: '',
       56: '0x3D29cdB00CB183a0aEcEEa4fB73F55E1450af3d4',

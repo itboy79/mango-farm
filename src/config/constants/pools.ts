@@ -3,8 +3,8 @@ import { PoolConfig, QuoteToken, PoolCategory } from './types'
 const pools: PoolConfig[] = [
 /*  {
   juiceId: 0,
- tokenName: 'MANGO',
-  stakingTokenName: QuoteToken.MANGO,
+ tokenName: 'cazzo',
+  stakingTokenName: QuoteToken.cazzo,
 stakingTokenAddress: '0x3D29cdB00CB183a0aEcEEa4fB73F55E1450af3d4',
  contractAddress: {
    97: '',
